@@ -1,0 +1,23 @@
+{
+  "name": "azure-keyvault-client-secret-credential-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugursirmen/azure-keyvault-client-secret-credential-sample.git"
+  },
+  "author": "ugursirmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugursirmen/azure-keyvault-client-secret-credential-sample/issues"
+  },
+  "homepage": "https://github.com/ugursirmen/azure-keyvault-client-secret-credential-sample#readme",
+  "dependencies": {
+    "@azure/identity": "^2.0.4",
+    "@azure/keyvault-secrets": "^4.4.0"
+  }
+}
